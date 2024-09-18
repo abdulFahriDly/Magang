@@ -1,3 +1,9 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 .daya-tarik-menara-siger-lampun {
   object-fit: cover;
   z-index: 0;

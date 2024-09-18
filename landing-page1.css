@@ -1,3 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+
 .daya-tarik-menara-siger-lampun {
   width: 1728px;
   height: 1131px;
@@ -410,6 +417,7 @@
   line-height: normal;
   letter-spacing: normal;
 }
+
 @media screen and (max-width: 1400px) {
   .login {
     flex: 1;
